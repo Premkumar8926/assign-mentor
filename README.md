@@ -2,6 +2,12 @@
 
 This project is a simple Mentor-Student Assignment API built with Node.js, Express.js, and MongoDB. It allows creating mentors and students, assigning students to mentors, and managing mentor-student relationships.
 
+## Live Demo
+
+You can access the live version of this API deployed on Render at the following URL:
+
+**[Assign Mentor API - Live URL](https://assign-mentor-diln.onrender.com)**
+
 ## Features
 
 - Create Mentor: API to create a mentor.
